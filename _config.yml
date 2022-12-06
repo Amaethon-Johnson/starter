@@ -11,6 +11,7 @@ prose:
       - name: "category"
         field:
           element: "text"
+          label: "Category"
           value: "blog"
       - name: "layout"
         field:
